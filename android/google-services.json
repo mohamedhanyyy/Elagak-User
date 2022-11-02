@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349001707942",
+    "project_id": "elagk-bdfe8",
+    "storage_bucket": "elagk-bdfe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349001707942:android:41123413ce423fd3bf9f67",
+        "android_client_info": {
+          "package_name": "com.elagkapp.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349001707942-2ojpfq2c7o5p87j5l8hmnbhk2nk8u9b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elagkapp.user_app",
+            "certificate_hash": "03234d27a55c36f7d8a0c508a5f0bd638ec829c8"
+          }
+        },
+        {
+          "client_id": "349001707942-grpi9u4aggp4q35sqvqkq83rhefv8v67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkIzgCCbBKM_PBEpnv9Cd1rbax5aZIp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349001707942-grpi9u4aggp4q35sqvqkq83rhefv8v67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
